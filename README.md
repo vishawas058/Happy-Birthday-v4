@@ -78,7 +78,7 @@ For questions or feedback, feel free to contact me:
 - **GitHub:** [vishawas058](https://github.com/vishawas058)
 - **Email:** mangadivine.in@gmail.com
 - **X:** [@vishawas_058](https://twitter.com/vishawas_058)
-- **Instagram:** [Vishawas](https://instagram.com/in/vishawas_.058)
+- **Instagram:** [Vishawas](https://www.instagram.com/vishawas_.058)
 
 ---
 
