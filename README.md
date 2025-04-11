@@ -52,13 +52,12 @@ Happy-Birthday-v4/
 ├── index.html       # Main HTML file
 ├── styles.css       # Styling file
 ├── script.js        # JavaScript for interactivity
-├── assets/          # Images, fonts, and other assets
 └── README.md        # Project documentation
 ```
 
 ## 🌐 Live Demo
 
-[Click here](#) to view a live demo of the project. *(Replace this link with your live demo URL if deployed.)*
+[Click here](https://vishawas058.github.io/Happy-Birthday-v4/) to view a live demo of the project.
 
 ## 🤝 Contributing
 
