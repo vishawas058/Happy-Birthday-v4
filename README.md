@@ -1,6 +1,4 @@
-Here is a suggested `README.md` file for your repository:
 
-```markdown
 # 🎉 Happy Birthday v4 🎂
 
 Welcome to the **Happy Birthday v4** project! This repository is a creative and interactive way to celebrate someone's special day. It includes a customized birthday greeting page built with modern web technologies.
